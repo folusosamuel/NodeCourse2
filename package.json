@@ -7,7 +7,7 @@
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Dave Gray",
+  "author": "Foluso Samuel",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
